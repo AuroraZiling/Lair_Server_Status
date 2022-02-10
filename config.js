@@ -2,7 +2,7 @@
 window.Config = {
 
   // 站点名
-  SiteName: 'Uptime Status',
+  SiteName: 'Lair Server Status',
 
   // 站点链接
   SiteUrl: '/',
@@ -18,7 +18,7 @@ window.Config = {
   ApiKeys: [
     'm790605293-309c4d07c08e1c3aaf405af2',
     'm790605306-4cb3545f01848c690c21d9e5',
-    'm790605315-d5631bfb96b638ba664d45c8',
+    'm790605382-958a96403990c68f9dae521b',
   ],
 
   // 是否显示监测站点的链接
@@ -32,12 +32,12 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: 'Homepage',
-      url: 'https://status.org.cn/'
+      text: 'Lair 文档',
+      url: 'https://lairdoc.asu.world/'
     },
     {
-      text: 'GitHub',
-      url: 'https://github.com/yb/uptime-status'
+      text: 'Lair 皮肤站',
+      url: 'http://skin.asu.world/'
     }
   ]
 };
